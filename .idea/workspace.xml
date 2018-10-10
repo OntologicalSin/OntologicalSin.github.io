@@ -71,7 +71,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Programming/WBC/kernal_0/app.py">
+        <entry file="file://$USER_HOME$/Programming/WBC/kernal_0/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
@@ -145,9 +145,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Programming/EnigmaKiosk/app.py" />
-        <option value="$PROJECT_DIR$/../Programming/EnigmaKiosk/handlers.py" />
-        <option value="$PROJECT_DIR$/../Programming/EnigmaKiosk/textparsing.py" />
+        <option value="$USER_HOME$/Programming/EnigmaKiosk/app.py" />
+        <option value="$USER_HOME$/Programming/EnigmaKiosk/handlers.py" />
+        <option value="$USER_HOME$/Programming/EnigmaKiosk/textparsing.py" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -248,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/EnigmaKiosk/EnigmaKiosk" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EnigmaKiosk/EnigmaKiosk" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/EnigmaKiosk/EnigmaKiosk/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EnigmaKiosk/EnigmaKiosk/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,35 +317,35 @@
     <entry file="file://$USER_HOME$/EnigmaKiosk/EnigmaKiosk/app.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming/EnigmaKiosk/handlers.py">
+    <entry file="file://$USER_HOME$/Programming/EnigmaKiosk/handlers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming/EnigmaKiosk/speech.py">
+    <entry file="file://$USER_HOME$/Programming/EnigmaKiosk/speech.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming/EnigmaKiosk/train.py">
+    <entry file="file://$USER_HOME$/Programming/EnigmaKiosk/train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming/EnigmaKiosk/textparsing.py">
+    <entry file="file://$USER_HOME$/Programming/EnigmaKiosk/textparsing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-161">
           <caret line="29" column="91" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming/EnigmaKiosk/app.py">
+    <entry file="file://$USER_HOME$/Programming/EnigmaKiosk/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
@@ -359,7 +359,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Programming/WBC/kernal_0/app.py">
+    <entry file="file://$USER_HOME$/Programming/WBC/kernal_0/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
