@@ -7,7 +7,7 @@
   z-index: 1042;
   overflow: hidden;
   position: fixed;
-  background: #0b0b0b;
+  background: #b8b8b8;
   opacity: 0.8; }
 
 .mfp-wrap {
@@ -331,7 +331,7 @@ img.mfp-img {
     width: 35px;
     height: 35px;
     line-height: 35px;
-    background: rgba(0, 0, 0, 0.6);
+    background: #86c232;
     position: fixed;
     text-align: center;
     padding: 0; } }
