@@ -10,13 +10,17 @@
 
 <h1>Volunteer Form</h1>
 
-<form name="my_form" action="https://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php" method="POST">
+<form name="my_form" action="http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php" method="POST">
 
+<fieldset>
   First Name: <input name="first_name_field" type="text"><br><br>
+  Last Name: <input name="last_name_field" type="text"><br><br>
   Phone Number: <input name="phone_field" type="text"><br><br>
   Email Address: <input name="email_field" type="text"><br><br>
   Gender: <input type="radio" name="gender_field" value="Male">Male<input type="radio" name="gender_field" value="Female">Female<br><br>
+</fieldset>
 
+<fieldset>
   Age: <select name="age_field">
       <option value="under18">Under 18</option>
       <option value="18-24">18 - 24</option>
@@ -26,7 +30,9 @@
       <option value="55-64">55 - 65</option>
       <option value="65over">65 and Over</option>
     </select><br><br>
+  </fieldset>
 
+<fieldset>
   My Availability:
   <br><input type="checkbox" name="available_field[]" value="sun">Sunday<br>
   <input type="checkbox" name="available_field[]" value="mon">Monday<br>
@@ -35,13 +41,15 @@
   <input type="checkbox" name="available_field[]" value="th">Thursday<br>
   <input type="checkbox" name="available_field[]" value="fri">Friday<br>
   <input type="checkbox" name="available_field[]" value="sat">Saturday<br><br>
+</fieldset>
 
+<fieldset>
   <textarea name="comments_field" rows="6" cols="50">
       Any Comments?
   </textarea>
+</fieldset>
 
   <input type="hidden" name="hidden_field" value="nlyubenko@hawk.iit.edu">
-
   <input type="submit" value="Send Me">
 
 </form>
