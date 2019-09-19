@@ -249,11 +249,11 @@
       <find>fff</find>
       <find>text-uppercase mb-0</find>
       <find>mb-0</find>
-      <find>style=&quot;color:#86c232;&quot;</find>
+      <find>style=&quot;color:#FFF;&quot;</find>
       <find>btn-ou</find>
       <find>btn-</find>
       <find>$primaryan</find>
-      <find>style=&quot;color:#86c232;&quot;&gt;</find>
+      <find>style=&quot;color:#FFF;&quot;&gt;</find>
       <find>&lt;p class=&quot;mb-5&quot;&gt;</find>
       <find>background</find>
       <find>bg</find>
@@ -271,11 +271,11 @@
       <replace>222629</replace>
       <replace>#898989</replace>
       <replace>25</replace>
-      <replace>style=&quot;color:#86c232;&quot;</replace>
-      <replace>color:#86c232</replace>
-      <replace>style=&quot;color:#86c232&quot;</replace>
-      <replace>&gt;&lt;p style=&quot;color:#86c232;&quot;&gt;</replace>
-      <replace>&lt;p style=&quot;color:#86c232;&quot;&gt;</replace>
+      <replace>style=&quot;color:#FFF;&quot;</replace>
+      <replace>color:#FFF</replace>
+      <replace>style=&quot;color:#FFF&quot;</replace>
+      <replace>&gt;&lt;p style=&quot;color:#FFF;&quot;&gt;</replace>
+      <replace>&lt;p style=&quot;color:#FFF;&quot;&gt;</replace>
       <replace>86c232</replace>
       <replace>6b6e70</replace>
       <replace>bg-primary</replace>

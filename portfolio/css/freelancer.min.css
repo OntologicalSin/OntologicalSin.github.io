@@ -28,18 +28,18 @@ hr.star-dark:after,hr.star-light:after{
     font-size:2em
 }
 hr.star-light{
-    border-color:#86c232
+    border-color:#FFF
 }
 hr.star-light:after{
-    color:#86c232;
+    color:#FFF;
 
 }
 hr.star-dark{
-    border-color:#2c3e50
+    border-color:#BC986A
 }
 hr.star-dark:after{
-    color:#2c3e50;
-    background-color:#86c232
+    color:#BC986A;
+    background-color:#FFF
 }
 section{
     padding:6rem 0
@@ -83,23 +83,23 @@ section h2{
     font-family:Montserrat
 }
 #mainNav .navbar-brand{
-    color:#86c232
+    color:#FFF
 }
 #mainNav .navbar-nav{
     margin-top:1rem;
     letter-spacing:.0625rem
 }
 #mainNav .navbar-nav li.nav-item a.nav-link{
-    color:#86c232
+    color:#FFF
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover{
-    color:#222629
+    color:#659DBD
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active,#mainNav .navbar-nav li.nav-item a.nav-link:focus{
-    color:#86c232
+    color:#FFF
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active{
-    color:#222629
+    color:#659DBD
 }
 #mainNav .navbar-toggler{
     font-size:80%;
@@ -121,12 +121,12 @@ section h2{
         margin-top:0
     }
     #mainNav .navbar-nav>li.nav-item>a.nav-link.active{
-        color:#86c232;
-        background:#222629
+        color:#FFF;
+        background:#659DBD
     }
     #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{
-        color:#86c232;
-        background:#222629
+        color:#FFF;
+        background:#659DBD
     }
     #mainNav.navbar-shrink{
         padding-top:.5rem;
@@ -260,7 +260,7 @@ header.masthead h2{
     opacity:1
 }
 .floating-label-form-group-with-focus label{
-    color:#222629
+    color:#FFF
 }
 form .row:first-child .floating-label-form-group{
     border-top:1px solid #e9ecef
@@ -268,32 +268,32 @@ form .row:first-child .floating-label-form-group{
 .footer{
     padding-top:5rem;
     padding-bottom:5rem;
-    background-color:#2c3e50;
-    color:#86c232
+    background-color:#BC986A;
+    color:#FFF
 }
 .copyright{
     background-color:#1a252f
 }
 a{
-    color:#222629
+    color:#659DBD
 }
 a:active,a:focus,a:hover{
-    color:#222629
+    color:#659DBD
 }
 .btn{
     border-width:2px
 }
 .bg-primary{
-    background-color:#222629!important
+    background-color:#659DBD!important
 }
 .bg-secondary{
-    background-color:#2c3e50!important
+    background-color:#BC986A!important
 }
 .text-primary{
-    color:#86c232 important
+    color:#FFF important
 }
 .text-secondary{
-    color:#2c3e50!important
+    color:#BC986A!important
 }
 .btn-primary{
     background-color:#6b6e70;
@@ -304,8 +304,8 @@ a:active,a:focus,a:hover{
     border-color:#6b6e70
 }
 .btn-secondary{
-    background-color:#2c3e50;
-    border-color:#2c3e50
+    background-color:#BC986A;
+    border-color:#BC986A
 }
 .btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{
     background-color:#1a252f;
