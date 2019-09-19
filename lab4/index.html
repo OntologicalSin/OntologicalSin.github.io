@@ -10,7 +10,7 @@
 
 <h1>Volunteer Form</h1>
 
-<form name="my_form" action="https://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php" method="POST">
+<form name="my_form" action="http://bloomingdale.sat.iit.edu/kriedan/lab3formscript.php" method="POST">
 
 <fieldset>
   First Name: <input name="first_name_field" type="text"><br><br>
@@ -21,7 +21,8 @@
 </fieldset>
 
 <fieldset>
-  Age: <select name="age_field">
+  <legend>Age:</legend>
+   <select name="age_field">
       <option value="under18">Under 18</option>
       <option value="18-24">18 - 24</option>
       <option value="25-34">25 - 34</option>
@@ -33,7 +34,9 @@
   </fieldset>
 
 <fieldset>
+  <legend>
   My Availability:
+</legend>
   <br><input type="checkbox" name="available_field[]" value="sun">Sunday<br>
   <input type="checkbox" name="available_field[]" value="mon">Monday<br>
   <input type="checkbox" name="available_field[]" value="tu">Tuesday<br>
