@@ -1,9 +1,8 @@
 # CS POV
 
-CS POV is a Construction Site image aggregation and localization platform to streamline
-site image collection and representation based on similarity and geo-location metadata.
+CS POV is a construction site processing, organization, and visualization platform that provides image aggregation and localization capabilities to construction management for auditing and regulation purposes.
 
-The project takes construction images and plots them on a coordinate plane, overlaid
+The project was conceived for BuiltWorlds2019 Hackathon. We use a dataset of images to sort and represent a construction site based on photo and report location gathered from geo-location metadata provided by a company or streamlined image collection app.
 
 ## Getting Started
 
