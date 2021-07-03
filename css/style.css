@@ -121,35 +121,35 @@
     transition: all 0.5s;
 }
 .service-item .first-service-icon {
-    background-image: url('media/icons8-color-48.png');
+    background-image: url('../media/icons8-color-48.png');
 }
 
 .service-item:hover .first-service-icon {
-    background-image: url('media/icons8-color-48.png');
+    background-image: url('../media/icons8-color-48.png');
 }
 
 .service-item .second-service-icon {
-    background-image: url('media/icons8-brain-100.png');
+    background-image: url('../media/icons8-brain-100.png');
 }
 
 .service-item:hover .second-service-icon {
-    background-image: url('media/icons8-brain-100.png');
+    background-image: url('../media/icons8-brain-100.png');
 }
 
 .service-item .third-service-icon {
-    background-image: url('media/icons8-source-code-40.png');
+    background-image: url('../media/icons8-source-code-40.png');
 }
 
 .service-item:hover .third-service-icon {
-  background-image: url('media/icons8-source-code-40.png');
+  background-image: url('../media/icons8-source-code-40.png');
 }
 
 .service-item .fourth-service-icon {
-    background-image: url('media/icons8-cloud-storage-64.png');
+    background-image: url('../media/icons8-cloud-storage-64.png');
 }
 
 .service-item:hover .fourth-service-icon {
-    background-image: url('media/icons8-cloud-storage-64.png');
+    background-image: url('../media/icons8-cloud-storage-64.png');
 }
 
 .row {
@@ -178,6 +178,6 @@ html, body {
   font-family: 'Lato';
   height: auto;
   min-height:auto;
-  background-image: url('media/page-bg.jpg');
+  background-image: url('../media/page-bg.jpg');
   background-repeat: repeat-y;
 }
